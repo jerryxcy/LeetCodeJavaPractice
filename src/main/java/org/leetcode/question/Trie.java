@@ -1,7 +1,4 @@
-package LeetCodeJavaPractice;
-
-import java.util.ArrayList;
-import java.util.List;
+package org.leetcode.question;
 
 //Implement Trie (Prefix Tree)
 class Trie {
@@ -14,7 +11,7 @@ class Trie {
 			childrens = new TrieNode[26];
 		}
 	}
-
+	
 	TrieNode root = null;
 	
 	/** Initialize your data structure here. */

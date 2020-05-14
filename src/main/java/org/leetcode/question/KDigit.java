@@ -1,4 +1,4 @@
-package LeetCodeJavaPractice;
+package org.leetcode.question;
 
 import java.util.Stack;
 
