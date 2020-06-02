@@ -1,8 +1,9 @@
-package org.leetcode.question;
+package org.leetcode.question.june;
 
 import static org.junit.Assert.assertEquals;
 
 import org.junit.Test;
+import org.leetcode.question.june.InvertBinaryTree;
 
 public class InvertBinaryTreeTest {
 

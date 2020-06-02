@@ -1,4 +1,4 @@
-package org.leetcode.question;
+package org.leetcode.question.june;
 
 public class InvertBinaryTree {
 
